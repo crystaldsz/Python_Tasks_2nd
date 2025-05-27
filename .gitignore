@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Any large data files you might generate
+# *.hdf5
+# *.pt # PyTorch model files (if you don't want to track them)
+# *.onnx
